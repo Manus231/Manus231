@@ -37,7 +37,6 @@ Soy un apasionado de la tecnología y el desarrollo de soluciones innovadoras. C
 
 ### 📫 **Conecta conmigo:**  
 - **Correo:** castillopisilmanuel838@gmail.com 
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
 - **Portafolio:** (pendiente)
 
 ---
