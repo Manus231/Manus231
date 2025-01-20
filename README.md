@@ -24,14 +24,7 @@ Soy un apasionado de la tecnología y el desarrollo de soluciones innovadoras. C
 ### 🌟 **Lo que me define:**  
 - Innovador y adaptable  
 - Comprometido con la mejora continua y el aprendizaje  
-- Orientado a crear interfaces que combinen funcionalidad y diseño  
-
----
-
-### 📌 **Proyectos destacados:**  
-- **[Nombre del Proyecto 1](enlace al repositorio):** Breve descripción del proyecto, las tecnologías utilizadas y el propósito.  
-- **[Nombre del Proyecto 2](enlace al repositorio):** Breve descripción del proyecto, las tecnologías utilizadas y el propósito.  
-- **[Nombre del Proyecto 3](enlace al repositorio):** Breve descripción del proyecto, las tecnologías utilizadas y el propósito.  
+- Orientado a crear interfaces que combinen funcionalidad y diseño    
 
 ---
 
